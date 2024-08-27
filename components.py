@@ -285,7 +285,7 @@ def create_footer():
                     dbc.Col(
                         html.A(
                             "Source Code",
-                            href="https://github.com/Alfredomg49/spotify-dashboard",
+                            href="https://github.com/Alfredomg7/spotify-dashboard",
                             target="_blank",
                             style=link_style
                         ),
